@@ -2,10 +2,8 @@
 ## Hi 👋, 
 I'm Vitor Lourenço, I'm a Full Stack developer 👨‍💻 . 
 
--  ⚡ Technologies: Javascript, Typescript, React, Node, Adonis, PHP, Laravel
-
 <p align="center">
-  Javascript | Typescript | Node.js | ReactJS | React Native | Adonis
+  ⚡ Technologies: Javascript, Typescript, React, Node, Adonis, PHP, Laravel
 </p>
 
 <p align="center">
